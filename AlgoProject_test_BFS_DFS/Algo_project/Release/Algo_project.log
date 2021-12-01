@@ -1,0 +1,15 @@
+﻿  Graph.cpp
+  Source.cpp
+c:\users\97252\source\repos\algoproject_test_bfs_dfs\algo_project\source.cpp(114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\97252\source\repos\algoproject_test_bfs_dfs\algo_project\source.cpp(171): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\97252\source\repos\algoproject_test_bfs_dfs\algo_project\source.cpp(179): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\97252\source\repos\algoproject_test_bfs_dfs\algo_project\source.cpp(180): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\97252\source\repos\algoproject_test_bfs_dfs\algo_project\source.cpp(189): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\97252\source\repos\algoproject_test_bfs_dfs\algo_project\source.cpp(190): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\97252\source\repos\algoproject_test_bfs_dfs\algo_project\source.cpp(191): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  403 of 409 functions (98.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Algo_project.vcxproj -> C:\Users\97252\source\repos\AlgoProject_test_BFS_DFS\Release\Algo_project.exe
